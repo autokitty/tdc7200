@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="tdc7200:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfcd1100-0a73-4ddb-98f6-dcd5871efc16" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YfTsb12ztdpkEF3vuh2VCYMWpx" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\project\tdc7200\web\include" />
+      <recent name="E:\project\tdc7200\web" />
+      <recent name="E:\project\tdc7200\web\img\site" />
+      <recent name="E:\project\tdc7200\web\WEB-INF\lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\tdc7200\web" />
+      <recent name="E:\project\tdc7200\web\css" />
+      <recent name="E:\project\tdc7200\web\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0.64">
+    <configuration name="Unnamed" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tdc7200.util.DBUtil" />
+      <module name="tdc7200" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 7.0.64" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.64" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <deployment>
+        <artifact name="tdc7200:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_64_tdc7200" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58966" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="tdc7200:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Tomcat Server.Tomcat 7.0.64" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfcd1100-0a73-4ddb-98f6-dcd5871efc16" name="默认更改列表" comment="" />
+      <created>1583332856691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583332856691</updated>
+      <workItem from="1583332860591" duration="2442000" />
+      <workItem from="1583373367334" duration="27189000" />
+      <workItem from="1583414301208" duration="6261000" />
+      <workItem from="1583476234838" duration="4015000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="269" key="#HTTP_Proxy" timestamp="1583485420653">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="551" y="269" key="#HTTP_Proxy/0.0.1920.1080@0.0.1920.1080" timestamp="1583485420653" />
+    <state x="1032" y="202" key="#Inspections" timestamp="1583394719245">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1032" y="202" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1583394719245" />
+    <state x="901" y="200" key="#Unnamed" timestamp="1583335405548">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="901" y="200" key="#Unnamed/0.0.1920.1080@0.0.1920.1080" timestamp="1583335405548" />
+    <state x="700" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583381483985">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="700" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583381483985" />
+    <state x="1330" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1583377744517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1330" y="227" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583377744517" />
+    <state x="975" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583335419120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="975" y="328" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583335419120" />
+    <state x="838" y="205" key="#项目结构" timestamp="1583375772128">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="838" y="205" key="#项目结构/0.0.1920.1080@0.0.1920.1080" timestamp="1583375772128" />
+    <state x="1230" y="298" key="FileChooserDialogImpl" timestamp="1585557184275">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1230" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585557184275" />
+    <state width="893" height="295" key="GridCell.Tab.0.bottom" timestamp="1583457079038">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="893" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583457079038" />
+    <state width="893" height="295" key="GridCell.Tab.0.center" timestamp="1583457079038">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="893" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583457079038" />
+    <state width="893" height="295" key="GridCell.Tab.0.left" timestamp="1583457079038">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="893" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583457079038" />
+    <state width="893" height="295" key="GridCell.Tab.0.right" timestamp="1583457079038">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="893" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583457079038" />
+    <state x="930" y="338" width="632" height="524" key="find.popup" timestamp="1583397005640">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="930" y="338" width="632" height="524" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583397005640" />
+    <state x="334" y="112" key="new project wizard" timestamp="1583485424692">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="334" y="112" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1583485424692" />
+    <state x="992" y="254" key="run.anything.popup" timestamp="1583418558693">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="992" y="254" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583418558693" />
+  </component>
+</project>

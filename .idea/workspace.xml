@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfcd1100-0a73-4ddb-98f6-dcd5871efc16" name="默认更改列表" comment="" />
+    <list default="true" id="cfcd1100-0a73-4ddb-98f6-dcd5871efc16" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +26,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\project\tdc7200\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1YfTsb12ztdpkEF3vuh2VCYMWpx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -149,6 +161,11 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="运行" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
             </expand>
             <select />
           </treeState>
@@ -170,11 +187,24 @@
       <workItem from="1583373367334" duration="27189000" />
       <workItem from="1583414301208" duration="6261000" />
       <workItem from="1583476234838" duration="4015000" />
+      <workItem from="1585557159045" duration="1341000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1585557828777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585557828777</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="551" y="269" key="#HTTP_Proxy" timestamp="1583485420653">
@@ -205,6 +235,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="838" y="205" key="#项目结构/0.0.1920.1080@0.0.1920.1080" timestamp="1583375772128" />
+    <state x="545" y="125" key="CommitChangelistDialog2" timestamp="1585557813978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="545" y="125" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1585557813978" />
     <state x="1230" y="298" key="FileChooserDialogImpl" timestamp="1585557184275">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -225,6 +259,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="893" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583457079038" />
+    <state x="552" y="261" key="Vcs.Push.Dialog.v2" timestamp="1585557849914">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1585557849914" />
     <state x="930" y="338" width="632" height="524" key="find.popup" timestamp="1583397005640">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
